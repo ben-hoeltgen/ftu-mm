@@ -5,7 +5,8 @@ Codebase for the [paper of the same name](https://arxiv.org/abs/2505.16638) by B
 
 ## Repo guide
 - `acs_single_feature.ipynb` and `main_results.ipynb` generate paper plots and tables based on results in the `results` folder
-- the results can be replicated through `run_acs.py` and `run_almp.py`, drawing on functions defined in `src` (given access to data)
+- the results can be replicated through `run_acs.py` and `run_almp.py`, given access to data
+- `src` contains two files with helper functions, one for the notebooks and one for the 'run' files
 
 
 ## Datasets
