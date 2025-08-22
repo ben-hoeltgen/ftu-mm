@@ -1,4 +1,4 @@
-# Reconsidering Fairness Through Unawareness From the Perspective of Model Multiplicit
+# Reconsidering Fairness Through Unawareness From the Perspective of Model Multiplicity
 
 Codebase for the [paper of the same name](https://arxiv.org/abs/2505.16638) by Benedikt Höltgen and Nuria Oliver, presented and published at _ACM EAAMO 2025_.
 
